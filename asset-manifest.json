@@ -1,16 +1,22 @@
 {
   "files": {
-    "main.css": "/113-3-MID/static/css/main.aa7346c2.css",
-    "main.js": "/113-3-MID/static/js/main.94d0ae7d.js",
+    "main.css": "/113-3-MID/static/css/main.846942d7.css",
+    "main.js": "/113-3-MID/static/js/main.da094a56.js",
     "static/js/453.c73663b8.chunk.js": "/113-3-MID/static/js/453.c73663b8.chunk.js",
+    "static/media/死神.jpg": "/113-3-MID/static/media/死神.93d7852301505b8258aa.jpg",
+    "static/media/公使.jpg": "/113-3-MID/static/media/公使.7efd18a8d480a93b0436.jpg",
+    "static/media/影后.jpg": "/113-3-MID/static/media/影后.a6096cfd4789a7115295.jpg",
+    "static/media/膽大黨.jpg": "/113-3-MID/static/media/膽大黨.cc60ef396de7cf740324.jpg",
     "static/media/Background.png": "/113-3-MID/static/media/Background.6345eb03005a8fd70461.png",
+    "static/media/奧術.jpg": "/113-3-MID/static/media/奧術.8f6a23abe8c9751fe72c.jpg",
+    "static/media/咒術迴戰.jpg": "/113-3-MID/static/media/咒術迴戰.bf50d43630ad765b59ec.jpg",
     "index.html": "/113-3-MID/index.html",
-    "main.aa7346c2.css.map": "/113-3-MID/static/css/main.aa7346c2.css.map",
-    "main.94d0ae7d.js.map": "/113-3-MID/static/js/main.94d0ae7d.js.map",
+    "main.846942d7.css.map": "/113-3-MID/static/css/main.846942d7.css.map",
+    "main.da094a56.js.map": "/113-3-MID/static/js/main.da094a56.js.map",
     "453.c73663b8.chunk.js.map": "/113-3-MID/static/js/453.c73663b8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa7346c2.css",
-    "static/js/main.94d0ae7d.js"
+    "static/css/main.846942d7.css",
+    "static/js/main.da094a56.js"
   ]
 }
